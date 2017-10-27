@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<world>
+	<graspableBody>
+		<filename>models/objects/cylinder.xml</filename>
+		<transform>
+			<fullTransform>(-0.124148 +0.984403 -0.0114195 +0.124127)[+1.03773 +144.879 +50.2718]</fullTransform>
+		</transform>
+	</graspableBody>
+	<robot>
+		<filename>models/robots/MekaHand/mekaHand.xml</filename>
+		<dofValues>+0 +0 +0 +0 +0 +0 +0 +0 +0 +0 +0 +0 </dofValues>
+		<transform>
+			<fullTransform>(+0.686269 -0.646486 +0.148053 -0.298614)[+209.408 +536.252 -584.315]</fullTransform>
+		</transform>
+	</robot>
+	<camera>
+		<position>+0 +100 +2211.79</position>
+		<orientation>+0 +0 +0 +1</orientation>
+		<focalDistance>+39238.3</focalDistance>
+	</camera>
+</world>
