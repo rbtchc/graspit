@@ -13,6 +13,6 @@ Separator { # Body
           shininess .28
 	  transparency .6
 	  }
-	  Sphere { radius 8 }
+	  Sphere { radius 60 }
 }
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<world>
+	<graspableBody>
+		<filename>models/objects/sphere.xml</filename>
+		<transform>
+			<fullTransform>(-0.128619 +0.939103 +0.130399 -0.290755)[-37.5857 +210.19 +62.7999]</fullTransform>
+		</transform>
+	</graspableBody>
+	<robot>
+		<filename>models/robots/MekaHand/mekaHand.xml</filename>
+		<dofValues>+0 +0.889375 +0.889375 +0.511875 +0.511875 +0.511875 +0.37 +0.584375 +0.584375 +0.42 +0.526875 +0.526875 </dofValues>
+		<transform>
+			<fullTransform>(-0.230143 +0.946273 +0.0750167 -0.214415)[-81.5696 +310.139 +40.0889]</fullTransform>
+		</transform>
+	</robot>
+	<camera>
+		<position>+48.9436 +100.193 +443.278</position>
+		<orientation>+0.175063 +0.0829093 +0.0929383 +0.976648</orientation>
+		<focalDistance>+403.112</focalDistance>
+	</camera>
+</world>
