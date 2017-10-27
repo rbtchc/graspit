@@ -10,7 +10,7 @@
 		<filename>models/robots/MekaHand/mekaHand.xml</filename>
 		<dofValues>+0 +0 +0 +0 +0 +0 +0 +0 +0 +0 +0 +0 </dofValues>
 		<transform>
-			<fullTransform>(-0.268894 +0.694271 -0.662391 -0.0831959)[+20.2933 +255.072 +36.0251]</fullTransform>
+			<fullTransform>(+0.106192 +0.622498 +0.653717 +0.416982)[-31.3581 +223.328 -13.9985]</fullTransform>
 		</transform>
 	</robot>
 	<camera>

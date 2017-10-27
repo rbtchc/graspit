@@ -8,9 +8,9 @@
 	</graspableBody>
 	<robot>
 		<filename>models/robots/MekaHand/mekaHand.xml</filename>
-		<dofValues>+0 +0 +0 +0 +0 +0 +0 +0 +0 +0 +0 +0 </dofValues>
+		<dofValues>+0 +1.17625 +1.72788 +0.71625 +0.71625 +0.71625 +0.625 +0.87125 +0.87125 +1.21625 +1.29625 +1.72788 </dofValues>
 		<transform>
-			<fullTransform>(-0.268894 +0.694271 -0.662391 -0.0831959)[+20.2933 +255.072 +36.0251]</fullTransform>
+			<fullTransform>(-0.503902 +0.117925 -0.855137 -0.0302893)[+49.1889 +106.007 +1.45176]</fullTransform>
 		</transform>
 	</robot>
 	<camera>
