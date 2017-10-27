@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <world>
 	<graspableBody>
-		<filename>models/objects/mug.xml</filename>
+		<filename>models/objects/cube.xml</filename>
 		<transform>
 			<fullTransform>(-0.128619 +0.939103 +0.130399 -0.290755)[-37.5857 +210.19 +62.7999]</fullTransform>
 		</transform>
 	</graspableBody>
 	<robot>
 		<filename>models/robots/MekaHand/mekaHand.xml</filename>
-		<dofValues>+0 +1.10625 +1.43625 +0.4925 +0.4925 +0.4925 +0.49625 +0.49625 +0.52625 +0.4225 +0.4225 +0.4225 </dofValues>
+		<dofValues>+0 +0.4075 +1.72788 +0.93125 +0.93125 +0.93125 +0.3875 +0.4825 +1.32125 +0.5125 +0.64375 +0.64375 </dofValues>
 		<transform>
-			<fullTransform>(+0.100596 +0.576132 +0.57536 +0.571763)[-17.8738 +280.834 -22.0737]</fullTransform>
+			<fullTransform>(-0.2374 +0.964991 +0.0472706 -0.100992)[-81.9891 +308.246 +37.8486]</fullTransform>
 		</transform>
 	</robot>
 	<camera>
